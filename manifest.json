@@ -1,0 +1,9 @@
+[
+    {
+      "name": "Jams",
+      "description": "An extension that lets non-Premium users create jams",
+      "preview": "assets/jams.png",
+      "main": "src/jams.js",
+      "readme": "README.md"
+    }
+]
