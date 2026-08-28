@@ -1,9 +1,16 @@
 [
-    {
-      "name": "Jams",
-      "description": "An extension that lets non-Premium users create jams",
-      "preview": "assets/jams.png",
-      "main": "src/jams.js",
-      "readme": "README.md"
-    }
+  {
+    "name": "Jams",
+    "description": "An extension that lets non-Premium users create jams",
+    "preview": "/assets/jams.png",
+    "main": "https://cdn.jsdelivr.net/gh/SkenSMasteR/Jams@main/src/jams.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "SkenS",
+        "url": "https://github.com/SkenSMasteR"
+      }
+    ],
+    "tags": ["jam", "jams", "free", "listen"]
+  }
 ]
