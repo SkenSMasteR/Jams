@@ -2,8 +2,8 @@
   {
     "name": "Jams",
     "description": "An extension that lets non-Premium users create jams",
-    "preview": "/assets/jams.png",
-    "main": "https://cdn.jsdelivr.net/gh/SkenSMasteR/Jams@main/src/jams.js",
+    "preview": "assets/jams.png",
+    "main": "src/jams.js",
     "readme": "README.md",
     "authors": [
       {
